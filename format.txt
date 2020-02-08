@@ -1,0 +1,17 @@
+10 - number of rows of your crossword
+10 - number of columns of your crossword
+5 - number of words to search for
+test - list of words to search for
+program
+java
+python
+wildfire
+testaxcjio - the crossword that will be searched
+waxdpztxzx
+idgeyjjkuy
+lbvgtgahbx
+dhzhhghvey
+fsxxobxhaz
+ijnmnxcvbz 
+rxfxvxvbbn
+eprogramxz
