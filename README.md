@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikJohnson
-- 👀 I’m interested in Java, C#, SQL, HTML, CSS, JavaScript, Python, And Ruby
-- 🌱 I’m currently learning Spring Boot, React, Node.Js, Angular, and .Net
+- 👀 I’m interested in Java, C#, SQL, HTML, CSS, JavaScript, Spring Boot, React
+- 🌱 I’m currently learning Node.Js, Angular, and .Net
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me malikjohnson159@yahoo.com
 
