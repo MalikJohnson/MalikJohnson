@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikJohnson
-- 👀 I’m interested in Java, Spring Boot, Angular, SQL, JavaScript, Docker, Jenkins, Linux, AWS, Microservices
-- 🌱 I’m currently learning AWS, Node.Js and React
+- 👀 I’m interested in Java, Spring Boot, Angular, Python, C#, SQL, JavaScript, Docker, Jenkins, Linux, AWS, Microservices
+- 🌱 I’m currently learning Node.Js and React
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me MalikJohnsonDev@gmail.com 
 
